@@ -5,7 +5,7 @@ April-22-2020
 Bikeshare Project @ Udacity
 
 ### Description
-Describe what your project is about and what it does
+The project is basicaly an exploration of the bikeshare data in mainly three major US cities: Washington, Chicago, and New York City.
 
 ### Files used
 Include the files used
