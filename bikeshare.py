@@ -196,6 +196,7 @@ def main():
         while restart.lower() not in ('yes', 'no'):
             restart= input('Invalid selection!!!\nPlease Type yes or no\n').lower()
         if restart.lower() != 'yes':
+            print("GoodBye")
             break
 
 
