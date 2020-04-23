@@ -11,5 +11,4 @@ The project is basicaly an exploration of the bikeshare data in mainly three maj
 bikeshare.py , washington.csv , chicago.csv and new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+I would like to thank Udacity for providing this amazing learning opportunity to the learning community.
